@@ -1,0 +1,16 @@
+.footer__navigation-elem{
+    margin: 0px;
+    color: white;
+    font-size: 16px;
+    line-height: 18px;
+    text-decoration: none;
+    margin-right: 18px; 
+}
+
+.footer__navigation-elem:visited{
+    color: white;
+}
+
+.footer__navigation-elem:active{
+    color: white;
+}

@@ -1,0 +1,93 @@
+.lead__title{
+    margin: 0 auto;
+    margin-top: 56px;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px;
+    color: white;
+    max-width: 720px;
+    align-self: center;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 1024px) {
+    .lead__title {
+        margin: 0 auto;
+        margin-top: 48px;
+        font-weight: 900;
+        font-size: 96px;
+        line-height: 100px;
+        max-width: 720px;
+        max-height: 200px;
+        align-self: center;
+        text-align: center;
+        box-sizing: border-box;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .lead__title {
+        margin: 0 auto;
+        margin-top: 48px;
+        font-weight: 900;
+        font-size: 96px;
+        line-height: 100px;
+        max-width: 720px;
+        max-height: 200px;
+        align-self: center;
+        text-align: center;
+        box-sizing: border-box;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .lead__title {
+        margin: 0 auto;
+        margin-top: 48px;
+        font-weight: 700;
+        font-size: 42px;
+        line-height: 48px;
+        max-width: 480px;
+        max-height: 140px;
+        width: 100%;
+        align-self: center;
+        justify-content: center;
+        text-align: center;
+        box-sizing: border-box;
+    }
+}
+
+@media screen and (max-width: 580px) {
+    .lead__title {
+        margin: 0 auto;
+        margin-top: 48px;
+        font-weight: 800;
+        font-size: 42px;
+        line-height: 48px;
+        max-width: 420px;
+        max-height: 140px;
+        width: 100%;
+        align-self: center;
+        justify-content: center;
+        text-align: center;
+        box-sizing: border-box;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .lead__title {
+        margin: 0 auto;
+        margin-top: 48px;
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 44px;
+        max-width: 288px;
+        max-height: 88px;
+        align-self: center;
+        text-align: center;
+        padding: 0px 16px;
+        box-sizing: border-box;
+    }
+}
+

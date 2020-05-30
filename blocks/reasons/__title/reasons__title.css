@@ -1,0 +1,18 @@
+.reasons__title{
+    margin-top: 90px;
+    color: white;
+    font-size: 54px;
+    line-height: 58px;
+    max-width: 690px;
+    font-style: normal;
+}
+
+@media screen and (max-width: 321px) {
+    .reason {
+        margin-top: 90px;
+        color: white;
+        font-size: 32px;
+        line-height: 35px;
+        max-width: 288px;
+        }
+    }

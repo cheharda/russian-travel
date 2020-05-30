@@ -1,0 +1,33 @@
+@import url(../reasons/__title/reasons__title.css);
+@import url(../reasons/__text/reasons__text.css);
+@import url(../reasons/__data/reasons__data.css);
+@import url(../reasons/__span-accent/reasons__span-accent.css);
+
+.reasons{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    max-width: calc(100% - 296px);
+    justify-self: left;
+}
+
+
+@media screen and (max-width: 1024px) {
+.reasons {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    max-width: calc(100% - 96px);
+    justify-self: left;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .reasons {
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        max-width: calc(100% - 32px);
+        justify-self: left;
+        }
+    }

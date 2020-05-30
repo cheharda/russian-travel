@@ -1,0 +1,17 @@
+@import url(./__lang/header__lang.css);
+@import url(./__logo/header__logo.css);
+@import url(./__lang/header__lang_en.css);
+@import url(./__lang/header__lang_ru.css);
+
+.header{
+    font-style: normal;
+    font-weight: normal;
+    display: flex;
+    flex-direction: row;
+    background-color: #2A2C2F;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-content: center;
+    outline: 1px solid red;
+}
