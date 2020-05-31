@@ -1,11 +1,11 @@
-.header__lang{ 
+.header__lang{
     font-size: 24px;
     line-height: 28px;
     margin-top: 46px;
     margin-right: 48px;
 }
 
-@media screen and (min-width: 769px) {
+@media screen and (max-width: 769px) {
     .header__lang {
         font-size: 24px;
         line-height: 28px;
@@ -14,7 +14,7 @@
     }
 }
 
-@media screen and (min-width: 769px) {
+@media screen and (max-width: 1030px) {
     .header__lang {
         font-size: 24px;
         line-height: 28px;
@@ -23,7 +23,7 @@
     }
 }
 
-@media screen and (min-width: 321px) {
+@media screen and (max-width: 320px) {
     .header__lang {
         font-size: 18px;
         line-height: 24px;

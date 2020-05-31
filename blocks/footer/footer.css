@@ -3,12 +3,25 @@
 @import url(./__author/footer__author.css);
 
 .footer{
-    background-color: #2A2C2F;
-    font-family: 'Inter';
     margin: 0 auto;
     display: flex;
     flex-direction: row;
     align-content: center;
     justify-content: space-between;
-    padding: 90px 48px 0px;
+    max-width: calc(100% - 96px);
+}
+
+@media screen and (max-width: 770px) {
+  .footer{
+    max-width: calc(100% - 48px);
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .footer{
+    max-width: 100%;
+    flex-direction: column;
+    align-content: space-between;
+    justify-content: start;
+  }
 }

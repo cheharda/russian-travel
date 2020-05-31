@@ -8,5 +8,17 @@
     display: flex;
     font-size: 14px;
     line-height: 16px;
+    margin-top: 92px;
     margin-bottom: 24px;
+}
+
+@media screen and (max-width: 400px) {
+  .footer__author{
+    margin: 0px;
+    margin-top: 48px;
+    margin-bottom: 24px;
+    margin-left: 16px;
+    font-size: 14px;
+    line-height: 14px;
+  }
 }

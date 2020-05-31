@@ -11,20 +11,7 @@
     box-sizing: border-box;
 }
 
-@media screen and (max-width: 1024px) {
-    .lead__title {
-        margin: 0 auto;
-        margin-top: 48px;
-        font-weight: 900;
-        font-size: 96px;
-        line-height: 100px;
-        max-width: 720px;
-        max-height: 200px;
-        align-self: center;
-        text-align: center;
-        box-sizing: border-box;
-    }
-}
+
 
 @media screen and (max-width: 769px) {
     .lead__title {
