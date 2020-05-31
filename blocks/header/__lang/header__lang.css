@@ -6,28 +6,29 @@
 }
 
 @media screen and (max-width: 769px) {
-    .header__lang {
-        font-size: 24px;
-        line-height: 28px;
-        margin-top: 46px;
-        margin-right: 24px;
-    }
+  .header__lang {
+      font-size: 24px;
+      line-height: 28px;
+      margin-top: 46px;
+      margin-right: 24px;
+  }
 }
 
 @media screen and (max-width: 1030px) {
-    .header__lang {
-        font-size: 24px;
-        line-height: 28px;
-        margin-top: 46px;
-        margin-right: 24px;
-    }
+  .header__lang {
+      font-size: 24px;
+      line-height: 28px;
+      margin-top: 46px;
+      margin-right: 24px;
+  }
 }
 
-@media screen and (max-width: 320px) {
-    .header__lang {
+
+@media screen and (max-width: 400px) {
+  .header__lang {
         font-size: 18px;
         line-height: 24px;
-        margin-top: 30px;
+        margin-top: 70px;
         margin-right: 16px;
     }
 }
