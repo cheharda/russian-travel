@@ -22,10 +22,11 @@
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 700px) {
 .place__paragraph{
   grid-column: 1;
   grid-row: auto;
   align-self: center;
+  justify-self: center;
   }
 }

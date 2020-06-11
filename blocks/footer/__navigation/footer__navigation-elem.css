@@ -15,7 +15,11 @@
     color: white;
 }
 
-@media screen and (max-width: 400px) {
+.footer__navigation-elem:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 670px) {
   .footer__navigation-elem{
     margin: 0px;
     margin-bottom: 32px;

@@ -1,0 +1,30 @@
+.reasons__container{
+    display: flex;
+    flex-direction: column;
+    max-width: 690px;
+}
+
+@media screen and (max-width: 770px) {
+  .reasons__container {
+    display: flex;
+    flex-direction: column;
+    max-width: 720px;
+      }
+  }
+
+  @media screen and (max-width: 500px) {
+    .reasons__container {
+      display: flex;
+      flex-direction: column;
+      max-width: 450px;
+        }
+    }
+
+  @media screen and (max-width: 321px) {
+    .reasons__container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      max-width: 288px;
+        }
+    }

@@ -1,4 +1,11 @@
 .header__lang_en{
     color: white;
     margin-left: 18px;
+    text-decoration: none;
+}
+
+.header__lang_en:hover{
+  color: white;
+  text-decoration: underline;
+  opacity: .8;
 }

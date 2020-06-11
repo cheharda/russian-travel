@@ -1,3 +1,10 @@
 .header__lang_ru{
     color: white;
+    text-decoration: none;
+}
+
+.header__lang_ru:hover{
+  color: white;
+  text-decoration: underline;
+  opacity: .8;
 }
