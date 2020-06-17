@@ -1,6 +1,8 @@
 @import url(./__navigation/footer__navigation.css);
-@import url(./__navigation/footer__navigation-elem.css);
+@import url(./__list/footer__list-elem.css);
+@import url(./__list/footer__list.css);
 @import url(./__author/footer__author.css);
+@import url(./__list/footer__list-link.css);
 
 .footer{
     margin: 0 auto;

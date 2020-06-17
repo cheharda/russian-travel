@@ -1,13 +1,11 @@
 @import url(../lead/__title/lead__title.css);
 @import url(../lead/__subtitle/lead__subtitle.css);
 @import url(../lead/__main/lead__main.css);
-@import url(../lead/__main/lead__main-illustration.css);
-@import url(../lead/__main/lead__main-caption.css);
+@import url(../lead/__main/main-illustration/lead__main-illustration.css);
+@import url(../lead/__main/main-caption/lead__main-caption.css);
 
 .lead{
     margin: 0 auto;
-    background-color: #2A2C2F;
-    font-family: 'Inter';
     font-style: normal;
     display: flex;
     flex-direction: column;

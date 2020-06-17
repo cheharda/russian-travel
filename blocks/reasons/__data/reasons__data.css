@@ -1,4 +1,7 @@
 .reasons__data{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
     color: white;
     font-size: 12px;
     line-height: 18px;

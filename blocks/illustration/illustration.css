@@ -11,30 +11,21 @@
 
 @media screen and (max-width: 1030px) {
     .illustration {
-      margin: 0 auto;
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
       grid-gap: 14px;
-      padding: 90px 48px;
+      padding: 92px 48px;
     }
   }
 
   @media screen and (max-width: 769px) {
     .illustration {
-      margin: 0 auto;
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
       grid-gap: 16px;
-      padding: 90px 48px;
+      padding: 88px 24px;
     }
   }
 
   @media screen and (max-width: 321px) {
     .illustration {
-      margin: 0 auto;
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
       grid-gap: 12px;
-      padding: 90px 16px;
+      padding: 64px 16px;
     }
   }

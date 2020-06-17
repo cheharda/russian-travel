@@ -1,0 +1,14 @@
+.header__lang-elem{
+    color: white;
+    text-decoration: none;
+}
+
+.header__lang-elem:hover{
+  opacity: .8;
+  text-decoration: underline;
+}
+
+.header__lang-elem:active{
+  color: white;
+  text-decoration: underline;
+}

@@ -14,14 +14,12 @@
 
 @media screen and (max-width: 1024px) {
 .reasons {
-  margin: 0 auto;
   max-width: 928px;
     }
 }
 
 @media screen and (max-width: 770px) {
   .reasons {
-    margin: 0 auto;
     max-width: 720px;
     padding-top: 88px;
     padding-bottom: 88px;
@@ -30,7 +28,6 @@
 
   @media screen and (max-width: 500px) {
     .reasons {
-      margin: 0 auto;
       max-width: 480px;
       padding-top: 88px;
       padding-bottom: 88px;
@@ -39,7 +36,6 @@
 
 @media screen and (max-width: 321px) {
     .reasons {
-      margin: 0 auto;
       max-width: 288px;
       padding-top: 64px;
       padding-bottom: 64px;
