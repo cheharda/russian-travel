@@ -2,7 +2,6 @@
 @import url(../reasons/__text/reasons__text.css);
 @import url(../reasons/__data/reasons__data.css);
 @import url(../reasons/__span-accent/reasons__span-accent.css);
-@import url(../reasons/__container/reasons__container.css);
 
 .reasons{
   max-width: 984px;

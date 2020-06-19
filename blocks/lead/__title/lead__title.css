@@ -7,16 +7,13 @@
     color: white;
     max-width: 720px;
     align-self: center;
-    text-align: center;
-    box-sizing: border-box;
-}
+    text-align: center;}
 
 
 
 @media screen and (max-width: 769px) {
     .lead__title {
         margin-top: 48px;
-        max-height: 200px;
     }
 }
 
@@ -27,20 +24,6 @@
         font-size: 42px;
         line-height: 48px;
         max-width: 480px;
-        max-height: 140px;
-        width: 100%;
-        justify-content: center;
-    }
-}
-
-@media screen and (max-width: 580px) {
-    .lead__title {
-        margin-top: 48px;
-        font-weight: 800;
-        font-size: 42px;
-        line-height: 48px;
-        max-width: 420px;
-        max-height: 140px;
         width: 100%;
         justify-content: center;
     }
@@ -52,8 +35,8 @@
         font-weight: 900;
         font-size: 40px;
         line-height: 44px;
-        max-height: 88px;
         padding: 0px 16px;
+        max-width: 288px;
     }
 }
 

@@ -12,8 +12,6 @@ width: 560px;
 
 @media screen and (max-width: 770px) {
   .cover__title{
-    font-style: normal;
-    font-weight: 900;
     max-width: calc(100% - 100px);
   }
 }
@@ -23,17 +21,12 @@ width: 560px;
     max-width: calc(100% - 20px);
     font-size: 42px;
     line-height: 35px;
-    font-style: normal;
-    font-weight: 900;
   }
 }
 
 @media screen and (max-width: 400px) {
   .cover__title{
-    font-style: normal;
-    font-weight: 900;
     width: 288px;
     font-size: 32px;
-    line-height: 35px;
   }
 }
