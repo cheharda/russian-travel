@@ -2,7 +2,6 @@
 @import url(./__logo/header__logo.css);
 @import url(./__lang-elem/header__lang-elem.css);
 @import url(./__lang-link/header__lang-link.css);
-@import url(./__lang-elem/_active/header__lang-elem_active.css);
 
 .header{
     font-style: normal;
