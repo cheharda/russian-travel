@@ -6,11 +6,10 @@
     margin-top: 46px;
     margin-right: 48px;
     list-style: none;
-    text-decoration: none;
     display: flex;
     flex-direction: row;
     align-self: flex-end;
-
+    color: white;
 }
 
 @media screen and (max-width: 1024px) {
